@@ -1,2 +1,5 @@
 libs/
-target/\n.project\n.settings\n.classpath
+target/
+.project
+.settings
+.classpath
